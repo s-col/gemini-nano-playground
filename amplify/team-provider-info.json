@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gemininanoplayground-dev-d5788-authRole",
+      "UnauthRoleArn": "arn:aws:iam::935266292378:role/amplify-gemininanoplayground-dev-d5788-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::935266292378:role/amplify-gemininanoplayground-dev-d5788-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-gemininanoplayground-dev-d5788-deployment",
+      "UnauthRoleName": "amplify-gemininanoplayground-dev-d5788-unauthRole",
+      "StackName": "amplify-gemininanoplayground-dev-d5788",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:935266292378:stack/amplify-gemininanoplayground-dev-d5788/d8a08c30-3490-11ef-bf71-0ade4323a8df",
+      "AmplifyAppId": "d3hlz2ijrhrgcy"
+    }
+  }
+}
